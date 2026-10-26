@@ -7,7 +7,7 @@ export const profile = {
   location: "Jaipur, India",
   email: "govindyadav.dev@gmail.com",
   phone: "+91-8094710777",
-  photo: "/govind.jpeg",
+  photo: "/govind.png",
   resume: "/Govind_Yadav_Resume.pdf",
   summary:
     "Detail-oriented Computer Science (B.Tech) student and aspiring Data Analyst with hands-on experience in Python, SQL, and relational databases (MS SQL Server) for data cleaning, querying, and analysis. Skilled in transforming raw data into actionable insights through statistical analysis and Excel-based visualization.",
